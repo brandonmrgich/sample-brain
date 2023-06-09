@@ -1,5 +1,9 @@
 # Samplebrain
 
+This is a mirror of the GitLab repo by 
+    - dave griffiths: https://gitlab.com/nebogeo, 
+    - https://gitlab.com/then-try-this/samplebrain/-/tree/production
+    
 A custom sample mashing app designed by Aphex Twin.
 
 Samplebrain chops samples up into a 'brain' of interconnected small
